@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:PneuStore"
+    },
+    "apis1": {
+      "type": "apis"
+    }
+  }
+}
