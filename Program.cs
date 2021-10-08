@@ -35,5 +35,5 @@ namespace PneuStore_API
                 {
                     webBuilder.UseStartup<Startup>();
                 });
-    }
+    } 
 }
